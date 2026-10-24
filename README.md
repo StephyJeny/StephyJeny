@@ -76,6 +76,8 @@ I value clean, maintainable code, continuous learning, effective communication, 
 ### 📫 Connect With Me
 
 - 💻 GitHub: [@StephyJeny](https://github.com/StephyJeny)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/stephanie-ochieng-802709295)
+- Portfolio: [My Portfolio](YOUR_PORTFOLIO_URL)
 - 📍 Location: Nairobi, Kenya
 
 ---
