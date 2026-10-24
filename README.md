@@ -5,7 +5,7 @@
 
 *Curious by nature. Developer by practice. Always building.*
 
-I'm a software developer passionate about turning ideas into practical, user-friendly applications. I enjoy exploring how software works, solving problems, collaborating with other developers, and building applications that make a difference.
+I'm a software engineer passionate about designing and building practical software solutions, from full-stack applications to integrated systems. I enjoy solving complex problems, exploring how different components work together, and writing maintainable code that makes software easier to develop, scale, and improve. I value collaboration, continuous learning, and thoughtful engineering that turns ideas into reliable, real-world solutions.
 
 📍 Nairobi, Kenya
 
