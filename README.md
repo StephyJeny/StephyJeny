@@ -13,11 +13,11 @@ I'm a software engineer passionate about designing and building practical softwa
 
 ### 🧠 What Drives Me
 
-I'm driven by the challenge of turning complex requirements into software that is practical, maintainable, and reliable. I enjoy understanding how different parts of an application work together, from user interfaces and APIs to databases and backend services.
+I'm driven by the challenge of understanding complex problems and turning them into well-structured, reliable software. I enjoy exploring how applications work beneath the surface — how components communicate, how data flows through a system, and how thoughtful architectural decisions shape the way software performs and evolves.
 
-I believe good software goes beyond making things work. It's about writing code that others can understand, designing systems that can evolve, and continuously improving how we build and deliver features.
+I believe great software isn't just about getting things to work; it's about building solutions that are maintainable, adaptable, and designed with purpose. I value clear code, thoughtful design, collaboration, and continuous improvement.
 
-For me, every project is an opportunity to solve a real problem, learn something new, and become a better engineer.
+Every project is an opportunity to challenge my thinking, explore better approaches, and grow as an engineer while building software that solves meaningful problems.
 
 ---
 
